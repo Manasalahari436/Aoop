@@ -4,5 +4,5 @@
 /**
  * 
  */
-module task_6_1 {
+module task_7_1 {
 }
